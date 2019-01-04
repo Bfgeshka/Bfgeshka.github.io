@@ -20,7 +20,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Github', 'https://github.com/Bfgeshka'),)
+LINKS = (('root', 'https://github.com/Bfgeshka'),)
+LINKS = (('Github', 'https://bfgeshka.github.io'),)
 
 # Social widget
 #SOCIAL = (('You can add links in your config file', '#'),
@@ -31,4 +32,4 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-THEME = "zurb-F5-basic"
+THEME = "./zurb-F5-basic"
