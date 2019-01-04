@@ -20,8 +20,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('root', 'https://github.com/Bfgeshka'),)
-LINKS = (('Github', 'https://bfgeshka.github.io'),)
+LINKS = (('Github', 'https://github.com/Bfgeshka'),('Site Root', 'https://bfgeshka.github.io'))
 
 # Social widget
 #SOCIAL = (('You can add links in your config file', '#'),
